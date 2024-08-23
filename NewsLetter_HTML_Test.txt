@@ -1,27 +1,0 @@
-<div class="w-[1440px] h-[1024px] bg-white"><div class="w-[1440px] h-[1024px] bg-[#f1f1f1]"></div><div class="w-[1440px] h-[1023px] bg-white"></div><div class="w-[1440px] h-[834px] bg-[#f6f6f6]"></div><img class="w-[116px] h-[109px] object-cover"></img><span class="text-[46px] text-[#0092bc]">RD PMO | Monthly Newsletter</span><div class="w-[1440px] h-[73px] bg-white"></div><div class="w-[289px] h-[73px] bg-[#0092bc]"></div><div class="w-64 h-[73px] bg-[#cccccc]"></div><div class="w-[304px] h-[73px] bg-[#cccccc]"></div><div class="w-[280px] h-[73px] bg-[#cccccc]"></div><div class="w-[295px] h-[73px] bg-[#cccccc]"></div><span class="font-normal text-[32px] text-white">Welcome</span><span class="font-normal text-[32px] text-white">Pillar updates</span><span class="font-normal text-[32px] text-white">Schedule releases</span><div class="w-[428px] h-[807px] bg-white"></div><span class="font-normal text-[32px] text-white">Stay tuned!</span><span class="font-normal text-[32px] text-white">Team insights</span><div class="w-[1440px] h-[5px] bg-[#0092bc]"></div><div class="w-[467px] h-[541px] bg-white"></div><span class="text-[20px] text-[#4d4d4d]">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC.  Sincerely, Name H.</span><div class="w-[522px] h-[458px] bg-white"></div><div class="w-[522px] h-[338px] bg-white"></div><div class="w-[468px] h-64 bg-white"></div><span class="font-normal text-[24px] text-[#0092bc]">Time to celebrate!</span><span class="font-bold text-[24px] text-[#0092bc]">A message from PMO Head</span><span class="font-bold text-[24px] text-[#0092bc]">Latest news from Pillars</span><span class="font-normal text-[24px] text-[#0092bc]">Wins of the month & Next releases</span><span class="text-[24px] text-[#0092bc]">Cross domain project Kickoff,
-What are the challenges?</span><span class="text-[20px] text-[#4d4d4d]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.  </span><span>July
-
-5th     Client commitment REGUP000
-10th   Client commitment REGUP009
-15th   Patch version regulatory
-19th   Version XXXX is released
-22th   Client commitment XXX
-31st    Client xyz GoLive 
-
-See August Program</span><span class="text-[20px]">Core
-Assessment IN PROGRESS
-New implementation project KICKOFF
-FAQ sessions COMING UP
-
-Scope & Planning 
-Review of upcoming deals in BACKLOG
-Client commitments BAU
-QRP process WIP
-Retrospective session DONE
-
-Execution
-19 items in GREEN status
-22 items in RED stats</span><span class="font-normal text-[16px] text-right text-[#0092bc]">All news >></span><span class="font-normal text-[16px] text-right text-[#0092bc]">Red more >></span><span class="text-[20px]">New joiners in July
-Happy birthday to...?
-Well done team!
-      Lets sing HB! </span><img class="w-[216px] h-[115px] object-cover"></img><img class="w-[395px] h-[115px] object-cover"></img><span class="font-normal text-[20px] text-[#999999]">Edition 17 | 5th July 2024</span><div class="w-[1440px] h-[113px] bg-[#08062a]"></div><span class="text-[46px] text-white">RD PMO | Monthly Newsletter</span><img class="w-32 h-[110px] object-cover"></img><span class="font-normal text-[20px] text-white">Edition 17 | 5th July 2024</span></div>
